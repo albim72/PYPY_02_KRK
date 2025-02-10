@@ -1,0 +1,10 @@
+animal = ("pies","kot","papuga","pies","szczur","pies")
+
+print(animal)
+print(type(animal))
+print(animal[3])
+print(animal[1:3])
+print(animal[::-1])
+print(animal.index("kot"))
+print(animal.count("pies"))
+print(animal)
